@@ -1,6 +1,6 @@
 # Stellar Light Curve Analysis — SRG/eROSITA
 
-This Jupyter Notebook demonstrates automated analysis of stellar light curves from the **SRG/eROSITA** telescope.
+This Jupyter Notebook LCCP.ipynb (LightCurveClusteringPeriod) demonstrates automated analysis of stellar light curves from the **SRG/eROSITA** telescope.
 
 ## Project Goal
 Determine stellar rotation periods and improve data analysis by minimizing manual review.
